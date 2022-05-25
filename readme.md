@@ -1,3 +1,3 @@
-<img src="/Screenshot 2022-05-25 172705" alt="output">
-<img src="/Screenshot 2022-05-25 172742" alt="output">
-<img src="/Screenshot 2022-05-25 172803" alt="output">
+<img src="/img1.jpg" alt="output">
+<img src="/2.jpg" alt="output">
+<img src="/3.jpg" alt="output">
